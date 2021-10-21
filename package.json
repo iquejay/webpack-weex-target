@@ -1,0 +1,19 @@
+{
+  "name": "webpack-weex-target",
+  "version": "1.0.0",
+  "description": "A weex target for webpack which make lazyload possible in weex",
+  "main": "index.js",
+  "scripts": {
+    "example": "webpack --config ./examples/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iquejay/webpack-weex-target.git"
+  },
+  "author": "quejay",
+  "devDependencies": {
+    "webpack": "^3.12.0"
+  },
+  "keywords": ["webpack", "weex", "webapck-weex-target", "webpack-target"],
+  "license": "MIT"
+}
