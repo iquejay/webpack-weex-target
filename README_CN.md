@@ -2,11 +2,13 @@ webpack-weex-target
 ---
 一个用于weex项目中webpack编译的目标，使懒加载在weex中成为可能。
 
-> 因为weex当前使用的3.x版本，所以该库仅支持webpack3.x版本。其他版本可类似实现。
+> 该库仅支持webpack3.x版本。
+
+webpack4.x版本请见master分支
 
 ## 安装
 ```
-npm install --save-dev webpack-weex-target
+npm install --save-dev webpack-weex-target@1
 ```
 
 ## 注意

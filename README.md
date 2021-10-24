@@ -4,11 +4,13 @@ A weex target for webpack which make lazyload possible in weex
 
 [中文说明](./README_CN.md)
 
-> Only for Webpack 3.x since that the webpack version weex using now is 3.x. Other version can be implemented similarly.
+> Only for Webpack 3.x.
+
+for webpack4.0 please see branch master
 
 ## Installing
 ```
-npm install --save-dev webpack-weex-target
+npm install --save-dev webpack-weex-target@1
 ```
 
 ## Note
