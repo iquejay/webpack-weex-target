@@ -4,7 +4,9 @@ A weex target for webpack which make lazyload possible in weex
 
 [中文说明](./README_CN.md)
 
-> Only for Webpack 3.x since that the webpack version weex using now is 3.x. Other version can be implemented similarly.
+> default for Webpack 4.x
+
+Version for webpack3.x please use [webpack-weex-target@1.x](https://github.com/iquejay/webpack-weex-target/tree/webpack3)
 
 ## Installing
 ```

@@ -4,6 +4,8 @@ webpack-weex-target
 
 > 因为weex当前使用的3.x版本，所以该库仅支持webpack3.x版本。其他版本可类似实现。
 
+webpack3.x版本请使用[webpack-weex-target@1.x](https://github.com/iquejay/webpack-weex-target/tree/webpack3)
+
 ## 安装
 ```
 npm install --save-dev webpack-weex-target
